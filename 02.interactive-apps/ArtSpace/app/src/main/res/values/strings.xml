@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="image_description_monariza">monariza</string>
+    <string name="image_description_the_scream">The Scream</string>
+    <string name="image_description_sunflowers">Sunflowers</string>
+    <string name="image_author_leonardo">Leonardo</string>
+    <string name="image_author_edvard_munch">Edvard Munch</string>
+    <string name="image_author_vincent_van_gogh">Edvard Munch</string>
+</resources>
