@@ -7,3 +7,5 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 
 ## Unit 1:  basics-compose
 ### 📝 Android 개발에 있어 UI를 XML이 아닌 Composable 함수를 사용해 UI 빌드에 대해 학습
+
+## Unit 2:  basics-compose
