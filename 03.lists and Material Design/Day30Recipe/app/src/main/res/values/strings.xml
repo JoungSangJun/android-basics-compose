@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Day 30 Recipe</string>
+    <string name="day1">Day1</string>
+    <string name="day2">Day2</string>
+    <string name="day3">Day3</string>
+    <string name="day4">Day4</string>
+    <string name="day5">Day5</string>
+    <string name="day1_cooking">오징어무국</string>
+    <string name="day1_cooking_ingredients">손질 오징어, 대파, 다진 마늘, 액젓,청양고추, 들기름</string>
+    <string name="day2_cooking">오이무침</string>
+    <string name="day2_cooking_ingredients">오이, 양파, 고추장, 설탕, 간장, 식초</string>
+    <string name="day3_cooking">고사리나물볶음</string>
+    <string name="day3_cooking_ingredients">고사리, 대파, 쌀뜬물, 꽃소금, 국간장, 연두</string>
+    <string name="day4_cooking">소시지콩나물찜</string>
+    <string name="day4_cooking_ingredients">콩나물, 소시지, 대파, 양파, 고추장, 고추가루, 간장, 설탕, 간마늘</string>
+    <string name="day5_cooking">떡볶이</string>
+    <string name="day5_cooking_ingredients">떡, 파, 설탕, 간장, 고추장</string>
+</resources>
