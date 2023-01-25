@@ -18,3 +18,6 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 ### 📝 [코틀린 Collection](https://github.com/JoungSangJun/android-basics-compose/blob/main/03.lists%20and%20Material%20Design/EventTracking/app/src/main/java/com/example/eventtracking/EventTracking.kt)
 ### 📝  [스크롤 가능한 목록(List)](https://github.com/JoungSangJun/android-basics-compose/blob/main/03.lists%20and%20Material%20Design/affirmations%20-%20List/app/src/main/java/com/example/affirmations/MainActivity.kt)
 ### 📝  [Material Design, Animation](https://github.com/JoungSangJun/android-basics-compose/tree/main/03.lists%20and%20Material%20Design/woof-MaterialTheming%2CAnimation)
+
+## Unit 4:  Navigation and app architecture
+### 📝 [활동 생명주기단계]([https://velog.io/@gogumi4502/Kotlin-%EC%A0%9C%EB%84%A4%EB%A6%AD-enum-%EC%8B%B1%EA%B8%80%ED%86%A4](https://velog.io/@gogumi4502/Android-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0))
