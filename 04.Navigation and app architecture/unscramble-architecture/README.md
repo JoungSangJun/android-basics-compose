@@ -1,6 +1,6 @@
-📚 Unscramble App
+👨‍💻 Unscramble App
 ==================================
-Introduction 
+📝 Introduction 
 ------------
 
 ### ✏️[ViewModel Architecture 정리](https://velog.io/@gogumi4502/Android-%EC%95%B1-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
