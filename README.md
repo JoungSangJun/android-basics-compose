@@ -21,3 +21,4 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 
 ## Unit 4:  Navigation and app architecture
 ### 📝 [활동 생명주기단계](https://velog.io/@gogumi4502/Android-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0)
+### 📝 [ViewModel](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/unscramble-architecture)
