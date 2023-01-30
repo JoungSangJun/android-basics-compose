@@ -23,4 +23,4 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 ### 📝 [활동 생명주기단계](https://velog.io/@gogumi4502/Android-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0)
 ### 📝 [ViewModel](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/unscramble-architecture)
 ### 📝 [단위테스트](https://velog.io/@gogumi4502/Android-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8)
-### 📝 [Navigation](https://velog.io/@gogumi4502/Android-Compose-Navigation) - [CupCake](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/cupcake-%20navigation)
+### 📝 [Navigation](https://velog.io/@gogumi4502/Android-Compose-Navigation) - [CupCake](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/cupcake-%20navigation) - [LunchTray](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/lunch-tray-navigation)
