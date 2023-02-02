@@ -9,4 +9,5 @@ WindowSizeClass를 사용하여 폼 팩터별로 화면 구성을 달리하여 �
 
 <img width="350" alt="스크린샷 2023-01-31 오후 9 14 52" align='left' src="https://user-images.githubusercontent.com/73929644/215757134-310f5b64-24e7-4904-bf10-52e267c693ea.png">
 
-<img width="400" alt="스크린샷 2023-01-31 오후 9 15 09" align='left' src="https://user-images.githubusercontent.com/73929644/215757137-db2a65ce-f4f9-4b20-9101-fd6a191aa2c9.png">
+<img width="400" alt="스크린샷 2023-02-02 오후 10 24 50" src="https://user-images.githubusercontent.com/73929644/216337040-40b49730-3b38-4dc3-b920-5804ab94e8d2.png">
+
