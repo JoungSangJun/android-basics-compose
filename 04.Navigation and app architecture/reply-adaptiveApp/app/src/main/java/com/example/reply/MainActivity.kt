@@ -46,6 +46,22 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+@Preview(showBackground = true, widthDp = 1000)
+@Composable
+fun ReplyAppExpandedPreview(){
+    ReplyTheme {
+        ReplyApp(windowSize = WindowWidthSizeClass.Expanded)
+    }
+}
+
+@Preview(showBackground = true, widthDp = 700)
+@Composable
+fun ReplyAppMediumPreview() {
+    ReplyTheme {
+        ReplyApp(windowSize = WindowWidthSizeClass.Medium)
+    }
+}
+
 @Preview(showBackground = true)
 @Composable
 fun ReplyAppPreview() {
