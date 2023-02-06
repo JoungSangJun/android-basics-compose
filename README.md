@@ -28,4 +28,4 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 ### 📝 [배운내용 활용해 앱 만들기](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/IncheonTour)
 
 ## Unit 5:  Connect to the internet
-
+### 📝 [동기, 비동기, 예외처리](https://velog.io/@gogumi4502/Kotlin-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
