@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IncheonTour</string>
+
+    <string name="previous">Pre</string>
+    <string name="Next">Next</string>
+    <string name="Cancel">Cancel</string>
+
+    <string name="choose_category">ChooseCategory</string>
+    <string name="choose_recommend">ChooseRecommend</string>
+    <string name="place_info">PlaceInfo</string>
+    <string name="back_button">backButton</string>
+</resources>
