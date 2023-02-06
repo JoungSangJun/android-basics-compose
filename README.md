@@ -27,5 +27,5 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 ### 📝 [적응형 앱](https://velog.io/@gogumi4502/Android-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%88-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%97%90%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0) - "[Reply](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/reply-adaptiveApp)"
 ### 📝 [배운내용 활용해 앱 만들기](https://github.com/JoungSangJun/android-basics-compose/tree/main/04.Navigation%20and%20app%20architecture/IncheonTour)
 
-## Unit 5:  Connect to the internet
+## Unit 5: Internet, Coroutine
 ### 📝 [동기, 비동기, 예외처리](https://velog.io/@gogumi4502/Kotlin-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
