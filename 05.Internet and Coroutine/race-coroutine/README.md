@@ -1,20 +1,10 @@
-Race tracker app
+👨‍💻 Race tracker app
 =================================
 
-The Race tracer app simulates the progress of two players in a race. The idea is to demonstrate 
-basic concepts of Kotlin coroutines. A user can start, pause, or reset the race with buttons in the 
-UI.
-
-Pre-requisites
---------------
-* Experience with building apps using Jetpack Compose.
-* How to create and run a project in Android Studio.
-* Familiar with Kotlin coroutines
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+📝 Introduction
+Start 버튼을 누르면ㄹ
+------------
+👉🏻 Navigation Compose를 활용하여 앱내에서 화면 전환을 실습했습니다.
+Architecture는 이전에 배운 ViewModel을 사용하였으며 Intent를 활용해 앱간 데이터 이동 구현했습니다.
+---
+![화면_기록_2023-01-29_오후_3_38_04_AdobeExpress](https://user-images.githubusercontent.com/73929644/215310628-23ce3c5c-8e5b-40bd-9ce2-38cbfa708136.gif)
