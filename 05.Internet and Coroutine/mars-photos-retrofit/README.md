@@ -1,4 +1,4 @@
-Mars Photos
+👨‍💻 Mars Photos
 ==================================
 
 MarsPhotos is a demo app that shows actual images of Mar's surface. These images are
@@ -10,6 +10,7 @@ handle the deserialization of the returned JSON to Kotlin data objects, and [Coi
 
 Pre-requisites
 --------------
+👉🏻[구체적인 학습 내용 정리 ](https://velog.io/@gogumi4502/Unit-5-Get-data-from-the-internet)👈🏻
 
 You need to know:
 - How to create Composable functions.
