@@ -1,27 +1,10 @@
-Mars Photos
+👨‍💻 Mars Photos
 ==================================
+MarsPhotos앱은 실제 화성이미지를 Grid 형식으로 화면에 보여줍니다.
 
-MarsPhotos is a demo app that shows actual images of Mar's surface. These images are
-real-life photos from Mars captured by NASA's Mars rovers. The data is stored on a Web server
-as a REST web service.
+화성이미지는 Retrofit을 사용해 웹 서버에서 가져오며 Coil을 사용해 이미지를 load 해줍니다.
 
-This app demonstrated the use of [Retrofit](https://square.github.io/retrofit/) to make REST requests to the web service, [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) to
-handle the deserialization of the returned JSON to Kotlin data objects, and [Coil](https://coil-kt.github.io/coil/) to load images by URL.
-
-Pre-requisites
 --------------
+👉🏻[구체적인 학습 내용 정리 ](https://velog.io/@gogumi4502/Unit-5-Get-data-from-the-internet)👈🏻
 
-You need to know:
-- How to create Composable functions.
-- How to use architecture components including ViewModel.
-- How to use coroutines for long-running tasks.
-- Familiarity with lazy grid
 
-Getting Started
----------------
-
-1. [Install Android Studio](https://developer.android.com/studio/install.html), if you don't already
-   have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
