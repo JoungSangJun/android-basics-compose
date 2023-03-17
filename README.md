@@ -31,3 +31,6 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 ### 📝 [동기, 비동기, 예외처리](https://velog.io/@gogumi4502/Kotlin-%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 ### 📝 [Coroutine](https://velog.io/@gogumi4502/Kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4) - "[Race-coroutine](https://github.com/JoungSangJun/android-basics-compose/tree/main/05.Internet%20and%20Coroutine/race-coroutine)"
 ### 📝 [Retrofit, Coil](https://velog.io/@gogumi4502/Unit-5-Get-data-from-the-internet) - "[mars-photos](https://github.com/JoungSangJun/android-basics-compose/tree/main/05.Internet%20and%20Coroutine/mars-photos-retrofit%2C%20coil)" - "[BookshelfApp](https://github.com/JoungSangJun/android-basics-compose/tree/main/05.Internet%20and%20Coroutine/BookshelfApp-retrofit%2Ccoil)"
+
+## Unit 6: Data persistence
+### 📝 [SQL 기본 문법](https://velog.io/@gogumi4502/Unit-6-SQL-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95)
