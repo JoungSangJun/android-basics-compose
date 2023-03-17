@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookshelfApp</string>
+    <string name="loading_failed">loading failed</string>
+    <string name="retry">Retry</string>
+</resources>
