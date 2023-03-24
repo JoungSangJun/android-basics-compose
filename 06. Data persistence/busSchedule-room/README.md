@@ -21,3 +21,5 @@ access the `ScheduleDao` and format data to be display in a list.
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+<img width="427" alt="스크린샷 2023-03-24 오후 1 00 53" src="https://user-images.githubusercontent.com/73929644/227421271-f29f6d55-e9be-4108-a07b-d9df7ba31dc1.png">
