@@ -1,23 +1,8 @@
-Dessert Release App - Solution Code
-=================================
-Solution code for the Android Basics with Compose: Dessert Release app.
+👨‍💻 Dessert App
+==================================
+Preference DataStore을 연습하기 위한 앱입니다.
 
-Introduction
-------------
-The Dessert Release app is a simple app which displays a collection of Android dessert releases. 
-This app is used to teach the concept of Preference DataStore.
-
-Pre-requisites
+화면에 표시되는 list를 Grid와 Linear 둘 중 어느것으로 출력할지에 대한 
+Preference DataStroe에 저장해 저장된 정보에 근거해 list를 출력합니다.
 --------------
-
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions
-
-Getting Started
----------------
-
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+![화면_기록_2023-03-25_오전_10_54_52_AdobeExpress](https://user-images.githubusercontent.com/73929644/227680160-4013352c-2936-4bb6-8f3f-9d9aac524278.gif)
