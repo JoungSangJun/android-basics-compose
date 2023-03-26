@@ -35,6 +35,6 @@ Google developers에서 제공하는 [Android Basics in Kotlin](https://develope
 ## Unit 6: Data persistence
 ### 📝 [SQL 기본 문법](https://velog.io/@gogumi4502/Unit-6-SQL-%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95)
 ### 📝 [Room] -  "[Inventory-App](https://github.com/JoungSangJun/android-basics-compose/tree/main/06.%20Data%20persistence/inventory-room)"
-### 📝 [Preference] -  "[Inventory-App](https://github.com/JoungSangJun/android-basics-compose/tree/main/06.%20Data%20persistence/dessert-preference)"
+### 📝 [Preference] -  "[Dessert-App](https://github.com/JoungSangJun/android-basics-compose/tree/main/06.%20Data%20persistence/dessert-preference)"
 
 
