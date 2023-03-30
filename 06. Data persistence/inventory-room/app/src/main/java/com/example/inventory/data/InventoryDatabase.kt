@@ -9,7 +9,6 @@ import androidx.room.RoomDatabase
 abstract class InventoryDatabase : RoomDatabase() {
 
     abstract fun itemDao(): ItemDao
-
     companion object {
         @Volatile
         private var Instance: InventoryDatabase? = null

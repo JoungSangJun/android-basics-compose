@@ -45,3 +45,4 @@ class BusScheduleViewModel(private val busScheduleDao: BusScheduleDao) : ViewMod
         }
     }
 }
+
