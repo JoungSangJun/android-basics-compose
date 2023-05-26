@@ -16,7 +16,6 @@
 
 package com.example.inventory.ui.item
 
-import android.util.Log
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.Scaffold
 import androidx.compose.runtime.Composable
