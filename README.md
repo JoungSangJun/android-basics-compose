@@ -1,7 +1,7 @@
 # android-basics-compose
 
 안드로이드 기초 스터디
-2023.01.10. ~ Ing.
+2023.01.10. ~ 2023.06.12.
 
 Google developers에서 제공하는 [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-compose/course?hl=ko) 기반
 
